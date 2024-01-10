@@ -1,6 +1,6 @@
 ### Opa! Sou o Roberto Araripe 👋
 
-- 🔭 Hoje trabalho com Back-End
+- 🔭 Desenvolvedor Java com experiência nas principais ferramentas de mercado.
 - 🌱 Estudanto Spring Boot
 - 🌱 Estudanto JSF and Primefaces
 
